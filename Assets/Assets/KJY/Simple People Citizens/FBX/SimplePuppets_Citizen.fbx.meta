@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 01fc3043acaea47c48cbd83257fdd452
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature
+  - first:
+      1: 100002
+    second: body_businessman
+  - first:
+      1: 100004
+    second: body_chef
+  - first:
+      1: 100006
+    second: body_firefighter
+  - first:
+      1: 100008
+    second: body_gang
+  - first:
+      1: 100010
+    second: body_helmet
+  - first:
+      1: 100012
+    second: body_hoodie
+  - first:
+      1: 100014
+    second: body_police
+  - first:
+      1: 100016
+    second: body_rocker
+  - first:
+      1: 100018
+    second: body_skirtgirl
+  - first:
+      1: 100020
+    second: body_tuxedo
+  - first:
+      1: 100022
+    second: Bone
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Armature
+  - first:
+      4: 400002
+    second: body_businessman
+  - first:
+      4: 400004
+    second: body_chef
+  - first:
+      4: 400006
+    second: body_firefighter
+  - first:
+      4: 400008
+    second: body_gang
+  - first:
+      4: 400010
+    second: body_helmet
+  - first:
+      4: 400012
+    second: body_hoodie
+  - first:
+      4: 400014
+    second: body_police
+  - first:
+      4: 400016
+    second: body_rocker
+  - first:
+      4: 400018
+    second: body_skirtgirl
+  - first:
+      4: 400020
+    second: body_tuxedo
+  - first:
+      4: 400022
+    second: Bone
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: body_rocker
+  - first:
+      21: 2100002
+    second: skin
+  - first:
+      21: 2100004
+    second: body_police
+  - first:
+      21: 2100006
+    second: skirtgirl
+  - first:
+      21: 2100008
+    second: body_hoodie
+  - first:
+      21: 2100010
+    second: body_firefighter
+  - first:
+      21: 2100012
+    second: body_helmet
+  - first:
+      21: 2100014
+    second: body_gang
+  - first:
+      21: 2100016
+    second: body_chef
+  - first:
+      21: 2100018
+    second: body_businessman
+  - first:
+      43: 4300000
+    second: body_rocker
+  - first:
+      43: 4300002
+    second: body_police
+  - first:
+      43: 4300004
+    second: body_skirtgirl
+  - first:
+      43: 4300006
+    second: body_hoodie
+  - first:
+      43: 4300008
+    second: body_firefighter
+  - first:
+      43: 4300010
+    second: body_helmet
+  - first:
+      43: 4300012
+    second: body_tuxedo
+  - first:
+      43: 4300014
+    second: body_chef
+  - first:
+      43: 4300016
+    second: body_businessman
+  - first:
+      43: 4300018
+    second: body_gang
+  - first:
+      74: 7400000
+    second: fall backward
+  - first:
+      74: 7400002
+    second: fall forward
+  - first:
+      74: 7400004
+    second: fall to the left
+  - first:
+      74: 7400006
+    second: fall to the right
+  - first:
+      74: 7400008
+    second: idle
+  - first:
+      74: 7400010
+    second: jump01_short
+  - first:
+      74: 7400012
+    second: jump02_middle
+  - first:
+      74: 7400014
+    second: jump03_long
+  - first:
+      74: 7400016
+    second: jump05_combination
+  - first:
+      74: 7400018
+    second: walk
+  - first:
+      74: 7400020
+    second: run
+  - first:
+      74: 7400022
+    second: jump04_spin
+  - first:
+      74: 7400024
+    second: default
+  - first:
+      74: 7400026
+    second: yes
+  - first:
+      74: 7400028
+    second: no
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: body_businessman
+  - first:
+      137: 13700002
+    second: body_chef
+  - first:
+      137: 13700004
+    second: body_firefighter
+  - first:
+      137: 13700006
+    second: body_gang
+  - first:
+      137: 13700008
+    second: body_helmet
+  - first:
+      137: 13700010
+    second: body_hoodie
+  - first:
+      137: 13700012
+    second: body_police
+  - first:
+      137: 13700014
+    second: body_rocker
+  - first:
+      137: 13700016
+    second: body_skirtgirl
+  - first:
+      137: 13700018
+    second: body_tuxedo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_businessman
+    second: {fileID: 2100000, guid: 3738b22e04103403b88c63fd1034ff04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_chef
+    second: {fileID: 2100000, guid: 0c6876943491b49e19dcc76453c41cb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_firefighter
+    second: {fileID: 2100000, guid: 826678a8ba7e343f0bc84bc55a8b99ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_gang
+    second: {fileID: 2100000, guid: 4d3ab9adad7d743c6b735f670c2ac5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_helmet
+    second: {fileID: 2100000, guid: 671ab661cb8724207afb782bd76ec0b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_hoodie
+    second: {fileID: 2100000, guid: a6d1c2d3687084dc494b5cf7d1e95dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_police
+    second: {fileID: 2100000, guid: 31f46eda8f0db44a28f6c1b06d22ecf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_rocker
+    second: {fileID: 2100000, guid: f70f109287687464994d11db6835d680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+    second: {fileID: 2100000, guid: 0127f674bab8144b294f4762743091a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirtgirl
+    second: {fileID: 2100000, guid: 986914419e9f948bab52e5a63e09696f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: SimplePuppets_Citizen(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 2.3594668, y: 2.3594668, z: 2.3594668}
+    - name: Bone
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_rocker
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_police
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_skirtgirl
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_hoodie
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_firefighter
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_helmet
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_tuxedo
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_chef
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_businessman
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_gang
+      parentName: SimplePuppets_Citizen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
